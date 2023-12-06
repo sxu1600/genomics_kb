@@ -10,6 +10,6 @@ In order to use this prototype, following the commands in terminal.
 - Running on `http://127.0.0.1:5000/` (Press CTRL+C to quit)
 
 ## Data Sources
-- CIViC - https://civicdb.org/releases/main
-- CGI - https://www.cancergenomeinterpreter.org/home
-- NCI Thesaurus - https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/Neoplasm/
+- CIViC (Statement) - https://civicdb.org/releases/main
+- CGI (Statement) - https://www.cancergenomeinterpreter.org/home
+- NCI Thesaurus (Disease Hierarchy) - https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/Neoplasm/
