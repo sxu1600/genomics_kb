@@ -1,0 +1,767 @@
+molecular_id,molecular_nci_code,molecular_description,source
+1,C36715,BCR-ABL1 Fusion Protein Expression,NCI_Thesaurus
+2,C17346,ABL1 Gene,NCI_Thesaurus
+3,C94600,BCR/ABL1 Fusion Gene,NCI_Thesaurus
+4,C36477,i(17q),NCI_Thesaurus
+5,C36605,i(19),NCI_Thesaurus
+6,C36599,Loss of Chromosome Y,NCI_Thesaurus
+7,C36411,Monosomy 7,NCI_Thesaurus
+8,C28452,Philadelphia Chromosome,NCI_Thesaurus
+9,C36606,t(3;21)(q26;q22),NCI_Thesaurus
+10,C13271,t(9;22)(q34.1;q11.2),NCI_Thesaurus
+11,C36396,Trisomy 8,NCI_Thesaurus
+12,C41074,EVI1-AML1 Fusion Protein Expression,NCI_Thesaurus
+13,C36714,p190 Fusion Protein Expression,NCI_Thesaurus
+14,C36712,p210 Fusion Protein Expression,NCI_Thesaurus
+15,C36713,p230 Fusion Protein Expression,NCI_Thesaurus
+16,C43539,Pituitary Tumor Transforming Gene Overexpression,NCI_Thesaurus
+17,C38184,ALK Gene,NCI_Thesaurus
+18,C17757,EGFR Gene,NCI_Thesaurus
+19,C99724,EML4/ALK Fusion Gene,NCI_Thesaurus
+20,C25785,KRAS Gene,NCI_Thesaurus
+21,C17359,TP53 Gene,NCI_Thesaurus
+22,C36482,Gain of Chromosome 1q,NCI_Thesaurus
+23,C36480,Gain of Chromosome 20q,NCI_Thesaurus
+24,C45566,Gain of Chromosome 3q24-qter,NCI_Thesaurus
+25,C36489,Gain of Chromosome 5p,NCI_Thesaurus
+26,C36488,Gain of Chromosome 8q,NCI_Thesaurus
+27,C36497,Loss of Chromosome 13q,NCI_Thesaurus
+28,C36667,Loss of Chromosome 4q,NCI_Thesaurus
+29,C27712,Loss of Chromosome 5q,NCI_Thesaurus
+30,C36583,Loss of Chromosome 6q,NCI_Thesaurus
+31,C36503,Loss of Chromosome 8p,NCI_Thesaurus
+32,C36584,Loss of Chromosome 9,NCI_Thesaurus
+34,C98357,EGFR Gene Mutation,NCI_Thesaurus
+35,C36665,KRAS2 Gene Amplification,NCI_Thesaurus
+36,C36695,LKB1 Gene Inactivation,NCI_Thesaurus
+37,C36329,TP53 Gene Inactivation,NCI_Thesaurus
+38,C18021,CCND1 Gene,NCI_Thesaurus
+39,C17756,ERBB2 Gene,NCI_Thesaurus
+40,C36652,CCND1 Gene Amplification,NCI_Thesaurus
+41,C36485,CCND1 Protein Overexpression,NCI_Thesaurus
+42,C36642,Cyclin D1 Messenger RNA Overexpression,NCI_Thesaurus
+43,C36638,ERBB2 Gene Amplification,NCI_Thesaurus
+44,C36639,ERBB2 Protein Overexpression,NCI_Thesaurus
+46,C39629,CDKN2A Gene Inactivation,NCI_Thesaurus
+48,C45934,HRAS Gene Mutation,NCI_Thesaurus
+49,C38173,BCL2 Gene mRNA Overexpression,NCI_Thesaurus
+50,C38175,CD44 Messenger RNA Overexpression,NCI_Thesaurus
+51,C36451,Clonal Immunoglobulin Kappa Light Chain Gene Rearrangement,NCI_Thesaurus
+52,C38172,Cyclin D2 Messenger RNA Overexpression,NCI_Thesaurus
+53,C38174,IRF4/MUM1 Messenger RNA Overexpression,NCI_Thesaurus
+54,C38171,PKCbeta1 Messenger RNA Overexpression,NCI_Thesaurus
+55,C24260,BCL6 Gene,NCI_Thesaurus
+56,C36444,Clonal Immunoglobulin Heavy Chain Gene Rearrangement,NCI_Thesaurus
+57,C36452,Clonal Immunoglobulin Lambda Light Chain Gene Rearrangement,NCI_Thesaurus
+61,C36447,Clonal T-Cell Receptor Beta Chain Gene Rearrangement,NCI_Thesaurus
+62,C36448,Clonal T-Cell Receptor Gamma Chain Gene Rearrangement,NCI_Thesaurus
+74,C36416,t(8;16)(p11;p13),NCI_Thesaurus
+75,C36541,Chromosomal Rearrangement,NCI_Thesaurus
+76,C36417,t(1;22)(p13.3;q13.3),NCI_Thesaurus
+77,C36346,Fusion Protein Expression,NCI_Thesaurus
+78,C38373,RBM15-MKL1 Fusion Protein Expression,NCI_Thesaurus
+79,C97296,MKL1 Gene,NCI_Thesaurus
+80,C97293,RBM15 Gene,NCI_Thesaurus
+81,C99701,RBM15/MKL1 Fusion Gene,NCI_Thesaurus
+83,C97297,MKL1 wt Allele,NCI_Thesaurus
+85,C97294,RBM15 wt Allele,NCI_Thesaurus
+87,C38386,del(20)(q11),NCI_Thesaurus
+88,C38385,del(7)(q11;q36),NCI_Thesaurus
+89,C36525,Gain of Chromosome 11,NCI_Thesaurus
+90,C36456,Gain of Chromosome 19,NCI_Thesaurus
+91,C36527,Gain of Chromosome 21,NCI_Thesaurus
+92,C36455,Gain of Chromosome 8,NCI_Thesaurus
+93,C36463,Gain of Chromosome 9,NCI_Thesaurus
+94,C36414,ins(3;3),NCI_Thesaurus
+95,C36407,inv(3)(q21.3;q26.2),NCI_Thesaurus
+96,C36646,Loss of Chromosome 11q ATM Gene Locus,NCI_Thesaurus
+97,C36410,Loss of Chromosome 12p,NCI_Thesaurus
+99,C36406,t(3;3)(q21.3;q26.2),NCI_Thesaurus
+100,C36415,t(3;5)(q25;q34),NCI_Thesaurus
+103,C21571,RARA Gene,NCI_Thesaurus
+105,C51711,RARA wt Allele,NCI_Thesaurus
+106,C36327,Gene Abnormality,NCI_Thesaurus
+108,C37219,CBFB-MYH11 Fusion Protein Expression,NCI_Thesaurus
+110,C18584,CBFB Gene,NCI_Thesaurus
+111,C101051,CBFB/MYH11 Fusion Gene,NCI_Thesaurus
+112,C29957,MYH11 Gene,NCI_Thesaurus
+114,C52523,CBFB wt Allele,NCI_Thesaurus
+117,C52448,MYH11 wt Allele,NCI_Thesaurus
+119,C36373,inv(16)(p13.1;q22),NCI_Thesaurus
+127,C18392,MECOM Gene,NCI_Thesaurus
+129,C52876,MECOM wt Allele,NCI_Thesaurus
+135,C36529,Trisomy 13,NCI_Thesaurus
+136,C36530,Trisomy 4,NCI_Thesaurus
+152,C38372,CEBPA Gene Mutation,NCI_Thesaurus
+154,C39598,CEBPA Gene,NCI_Thesaurus
+156,C52525,CEBPA wt Allele,NCI_Thesaurus
+158,C82429,NPM1 Gene Mutation,NCI_Thesaurus
+159,C21185,NPM1 Gene,NCI_Thesaurus
+161,C52487,NPM1 wt Allele,NCI_Thesaurus
+179,C36364,t(11;17)(q13;q21),NCI_Thesaurus
+181,C37222,NUMA1-RARA Fusion Protein Expression,NCI_Thesaurus
+182,C99359,NUMA1/RARA Fusion Gene,NCI_Thesaurus
+186,C36363,t(11;17)(q23;q21),NCI_Thesaurus
+188,C37220,ZBTB16-RARA Fusion Protein Expression,NCI_Thesaurus
+190,C99371,ZBTB16/RARA Fusion Gene,NCI_Thesaurus
+193,C27759,t(16;16)(p13.1;q22),NCI_Thesaurus
+200,C38378,t(17;17)(q21;q21),NCI_Thesaurus
+202,C38379,STAT5B-RARA Fusion Protein Expression,NCI_Thesaurus
+204,C99666,STAT5B/RARA Fusion Gene,NCI_Thesaurus
+211,C36362,t(5;17)(q35;q21),NCI_Thesaurus
+213,C37221,NPM1-RARA Fusion Protein Expression,NCI_Thesaurus
+214,C101064,NPM1/RARA Long Fusion Gene,NCI_Thesaurus
+215,C101063,NPM1/RARA Short Fusion Gene,NCI_Thesaurus
+220,C36532,t(6;9)(p23;q34.1),NCI_Thesaurus
+221,C43005,DEK-NUP214 Fusion Protein Expression,NCI_Thesaurus
+223,C99198,DEK/NUP214 Fusion Gene,NCI_Thesaurus
+224,C24649,NUP214 Gene,NCI_Thesaurus
+227,C52288,NUP214 wt Allele,NCI_Thesaurus
+228,C122689,t(7;12)(q36;p13),NCI_Thesaurus
+229,C105817,MNX1/ETV6 Fusion Gene,NCI_Thesaurus
+232,C13395,t(8;21)(q22;q22),NCI_Thesaurus
+233,C37218,AML1-ETO Fusion Protein Expression,NCI_Thesaurus
+235,C99294,RUNX1/RUNX1T1 Fusion Gene,NCI_Thesaurus
+236,C28570,RUNX1T1 Gene,NCI_Thesaurus
+239,C52522,RUNX1T1 wt Allele,NCI_Thesaurus
+241,C36370,t(9;11)(p22.3;q23.3),NCI_Thesaurus
+243,C122623,KMT2A Gene Rearrangement,NCI_Thesaurus
+244,C38390,MLLT3--KMT2A Fusion Protein Expression,NCI_Thesaurus
+245,C18585,KMT2A Gene,NCI_Thesaurus
+246,C99323,MLL/MLLT3 Fusion Gene,NCI_Thesaurus
+248,C53066,KMT2A wt Allele,NCI_Thesaurus
+254,C99319,MLL/AFF1 Fusion Gene,NCI_Thesaurus
+255,C99321,MLL/MLLT1 Fusion Gene,NCI_Thesaurus
+256,C99347,MLL/MLLT10 Fusion Gene,NCI_Thesaurus
+257,C99570,MLLT10/CLP1 Fusion Gene,NCI_Thesaurus
+258,C36611,t(10;11)(p11;q23),NCI_Thesaurus
+259,C36371,t(11;19)(q23;p13.1),NCI_Thesaurus
+260,C36365,t(4;11)(q21;q23),NCI_Thesaurus
+261,C38387,KMT2A-AF10 Fusion Protein Expression,NCI_Thesaurus
+262,C37228,KMT2A-AF4 Fusion Protein Expression,NCI_Thesaurus
+263,C38393,KMT2A-EEN Fusion Protein Expression,NCI_Thesaurus
+264,C38392,KMT2A-ELL Fusion Protein Expression,NCI_Thesaurus
+265,C38391,KMT2A-ENL Fusion Protein Expression,NCI_Thesaurus
+282,C38375,null,NCI_Thesaurus
+284,C36609,t(7;11)(p15;p15),NCI_Thesaurus
+286,C45399,V-MLL Fusion Protein Expression,NCI_Thesaurus
+290,C27758,t(15;17)(q22;q12),NCI_Thesaurus
+292,C37223,PML-RARA Fusion Protein Expression,NCI_Thesaurus
+293,C99186,PML/RARA Fusion Gene,NCI_Thesaurus
+298,C36464,Gain of Chromosome 12,NCI_Thesaurus
+300,C36454,Gain of Chromosome 7,NCI_Thesaurus
+304,C39717,MDM2 Gene Mutation,NCI_Thesaurus
+307,C52271,TP53 wt Allele,NCI_Thesaurus
+308,C97240,TP53*1 Allele,NCI_Thesaurus
+309,C36644,Loss of E-cadherin Expression,NCI_Thesaurus
+311,C17567,APC Gene,NCI_Thesaurus
+312,C18363,BRAF Gene,NCI_Thesaurus
+315,C36683,APC Gene Inactivation,NCI_Thesaurus
+316,C40430,BRAF Gene Mutation,NCI_Thesaurus
+318,C43597,MYC Gene Mutation,NCI_Thesaurus
+324,C36704,FHIT Gene Inactivation,NCI_Thesaurus
+329,C36483,Gain of Chromosome 9q,NCI_Thesaurus
+330,C36501,Loss of Chromosome 1p,NCI_Thesaurus
+331,C36671,Gain of Chromosome 10,NCI_Thesaurus
+332,C36670,Gain of Chromosome 16,NCI_Thesaurus
+333,C36467,Gain of Chromosome 18,NCI_Thesaurus
+334,C36559,Gain of Chromosome 20,NCI_Thesaurus
+335,C36458,Gain of Chromosome 3,NCI_Thesaurus
+336,C36669,Gain of Chromosome 6,NCI_Thesaurus
+338,C36539,Gain of Chromosome X,NCI_Thesaurus
+340,C36515,Loss of Chromosome 16q,NCI_Thesaurus
+341,C36631,Loss of Chromosome 17,NCI_Thesaurus
+342,C36499,Loss of Chromosome 17p,NCI_Thesaurus
+347,C36664,Aberrant DNA Methylation,NCI_Thesaurus
+348,C36659,CTNNB1 Gene Mutation,NCI_Thesaurus
+349,C36692,PTEN Gene Inactivation,NCI_Thesaurus
+351,C36594,del(6q21q25),NCI_Thesaurus
+352,C18609,KIT Gene,NCI_Thesaurus
+353,C38407,C-KIT Somatic Point Mutation,NCI_Thesaurus
+354,C39711,C-KIT Tyrosine Kinase Protein Overexpression,NCI_Thesaurus
+375,C38656,ALK Kinase Overexpression,NCI_Thesaurus
+380,C36526,Loss of Chromosome 5,NCI_Thesaurus
+381,C36524,Loss of Chromosome 7,NCI_Thesaurus
+385,C101067,PAX3/FOXO4 Fusion Gene,NCI_Thesaurus
+386,C101069,PAX3/NCOA1 Fusion Gene,NCI_Thesaurus
+388,C18258,SMAD4 Gene,NCI_Thesaurus
+391,C52546,KRAS wt Allele,NCI_Thesaurus
+393,C52821,SMAD4 wt Allele,NCI_Thesaurus
+400,C41361,KRAS Gene Mutation,NCI_Thesaurus
+403,C52458,APC wt Allele,NCI_Thesaurus
+406,C36641,MYC Gene Amplification,NCI_Thesaurus
+412,C17425,NF2 Gene,NCI_Thesaurus
+413,C36441,Gain of Chromosome 12q,NCI_Thesaurus
+414,C36481,Gain of Chromosome 15q,NCI_Thesaurus
+415,C36484,Gain of Chromosome 17q,NCI_Thesaurus
+419,C36490,Loss of Chromosome 14,NCI_Thesaurus
+421,C36491,Loss of Chromosome 22,NCI_Thesaurus
+422,C36502,Loss of Chromosome 3p,NCI_Thesaurus
+423,C36686,NF2 Gene Inactivation,NCI_Thesaurus
+425,C52883,NF2 wt Allele,NCI_Thesaurus
+426,C36468,Monosomy 10,NCI_Thesaurus
+427,C36469,Monosomy 21,NCI_Thesaurus
+428,C36461,Monosomy 22,NCI_Thesaurus
+430,C36504,Loss of Chromosome 6,NCI_Thesaurus
+431,C41615,CDKN2A Gene Deletion,NCI_Thesaurus
+433,C36328,RB1 Gene Inactivation,NCI_Thesaurus
+438,C129264,IDH Gene Family Mutation,NCI_Thesaurus
+439,C129260,IDH Gene Family,NCI_Thesaurus
+447,C77215,IDH1 Gene,NCI_Thesaurus
+448,C77216,IDH1 wt Allele,NCI_Thesaurus
+449,C84948,IDH2 Gene,NCI_Thesaurus
+450,C84949,IDH2 wt Allele,NCI_Thesaurus
+457,C18262,WT1 Gene,NCI_Thesaurus
+458,C36684,WT1 Gene Inactivation,NCI_Thesaurus
+463,C81946,ALK Fusion Protein Expression,NCI_Thesaurus
+464,C37208,Rearrangement of 2p23,NCI_Thesaurus
+466,C101046,ATIC/ALK Fusion Gene,NCI_Thesaurus
+467,C99873,CLTC/ALK Fusion Gene,NCI_Thesaurus
+468,C101059,MSN/ALK Fusion Gene,NCI_Thesaurus
+469,C99361,NPM1/ALK Fusion Gene,NCI_Thesaurus
+470,C99869,RNF213/ALK Fusion Gene,NCI_Thesaurus
+471,C101075,TFG/ALK Fusion Gene,NCI_Thesaurus
+472,C101083,TPM3/ALK Fusion Gene,NCI_Thesaurus
+473,C101085,TPM4/ALK Fusion Gene,NCI_Thesaurus
+474,C36437,inv(2)(p23q35),NCI_Thesaurus
+475,C36435,t(1;2)(q25;p23),NCI_Thesaurus
+476,C36590,t(2;17)(p23;q23),NCI_Thesaurus
+477,C45440,t(2;17)(p23;q35),NCI_Thesaurus
+478,C45439,t(2;19)(p23;p13),NCI_Thesaurus
+479,C45441,t(2;22)(p23;q11),NCI_Thesaurus
+480,C36436,t(2;3)(p23;q21),NCI_Thesaurus
+481,C27711,t(2;5)(p23;q35),NCI_Thesaurus
+482,C36591,t(X;2)(q11-12;p23),NCI_Thesaurus
+483,C45443,ALO17-ALK Fusion Protein Expression,NCI_Thesaurus
+484,C36711,ATIC-ALK Fusion Protein Expression,NCI_Thesaurus
+487,C37216,CLTC-ALK Fusion Protein Expression,NCI_Thesaurus
+488,C38348,MSN-ALK Fusion Protein Expression,NCI_Thesaurus
+489,C45444,MYH9-ALK Fusion Protein Expression,NCI_Thesaurus
+490,C36706,NPM-ALK Fusion Protein Expression,NCI_Thesaurus
+491,C36708,TFG-ALK Fusion Protein Expression,NCI_Thesaurus
+492,C36707,TPM3-ALK Fusion Protein Expression,NCI_Thesaurus
+493,C45442,TPM4-ALK Fusion Protein Expression,NCI_Thesaurus
+495,C51738,ALK wt Allele,NCI_Thesaurus
+501,C101079,TFG/ALK Extra Long Form Fusion Gene,NCI_Thesaurus
+503,C101078,TFG/ALK Long Form Fusion Gene,NCI_Thesaurus
+504,C101077,TFG/ALK Short Form Fusion Gene,NCI_Thesaurus
+509,C27213,t(14;18)(q32;q21),NCI_Thesaurus
+510,C36354,t(3;14)(q27;q32),NCI_Thesaurus
+511,C36442,Clonal BCL2 Gene Rearrangement,NCI_Thesaurus
+512,C36449,Clonal BCL6 Gene Rearrangement,NCI_Thesaurus
+516,C36585,Loss of Chromosome 10,NCI_Thesaurus
+517,C36505,Loss of Chromosome 11p,NCI_Thesaurus
+518,C6833,Double Minutes,NCI_Thesaurus
+520,C36512,Loss of Chromosome 10p,NCI_Thesaurus
+522,C36636,Loss of Chromosome 9p,NCI_Thesaurus
+523,C79099,1p/19q Codeletion,NCI_Thesaurus
+542,C36425,Trisomy 3,NCI_Thesaurus
+543,C36433,Trisomy 5,NCI_Thesaurus
+544,C36443,Clonal Immunoglobulin Gene Rearrangement,NCI_Thesaurus
+563,C18022,CDKN2A Gene,NCI_Thesaurus
+564,C18322,EWSR1 Gene,NCI_Thesaurus
+565,C99211,EWSR1/ERG Fusion Gene,NCI_Thesaurus
+566,C99259,EWSR1/ETV1 Fusion Gene,NCI_Thesaurus
+567,C99262,EWSR1/ETV4 Fusion Gene,NCI_Thesaurus
+568,C99226,EWSR1/FEV Fusion Gene,NCI_Thesaurus
+569,C99202,EWSR1/FLI1 Fusion Gene,NCI_Thesaurus
+570,C99238,EWSR1/PATZ1 Fusion Gene,NCI_Thesaurus
+571,C99281,FUS/ERG Fusion Gene,NCI_Thesaurus
+572,C38635,inv(22q12),NCI_Thesaurus
+573,C27214,t(11;22)(q24;q12),NCI_Thesaurus
+574,C36616,t(16;21)(p11;q22),NCI_Thesaurus
+575,C36369,t(17;22)(q21;q12),NCI_Thesaurus
+576,C37251,t(1;22)(p36.1;q12),NCI_Thesaurus
+577,C36367,t(21;22)(q22;q12),NCI_Thesaurus
+578,C37249,t(2;22)(q33;q12),NCI_Thesaurus
+579,C36368,t(7;22)(p22;q12),NCI_Thesaurus
+580,C37229,EWSR1-ERG Fusion Protein Expression,NCI_Thesaurus
+581,C37230,EWSR1-ETV1 Fusion Protein Expression,NCI_Thesaurus
+582,C37231,EWSR1-ETV4 Fusion Protein Expression,NCI_Thesaurus
+583,C37250,EWSR1-FEV Fusion Protein Expression,NCI_Thesaurus
+584,C37224,EWSR1-FLI1 Fusion Protein Expression,NCI_Thesaurus
+585,C37252,EWSR1-PATZ1 Fusion Protein Expression,NCI_Thesaurus
+586,C45455,FUS-ERG Fusion Protein Expression,NCI_Thesaurus
+594,C16887,MYC Gene,NCI_Thesaurus
+595,C27705,t(2;8)(p11;q24),NCI_Thesaurus
+596,C36319,t(8;14)(q24;q32),NCI_Thesaurus
+597,C36321,t(8;22)(q24;q11),NCI_Thesaurus
+598,C36522,Gain of Chromosome 13,NCI_Thesaurus
+601,C36403,Loss of Chromosome 20q,NCI_Thesaurus
+602,C41381,NRAS Gene Mutation,NCI_Thesaurus
+603,C36681,MDM2 Gene Amplification,NCI_Thesaurus
+604,C18345,MDM2 Gene,NCI_Thesaurus
+607,C36385,Giant Rod Chromosome,NCI_Thesaurus
+608,C3360,Supernumerary Circular Chromosome,NCI_Thesaurus
+610,C67099,MDM2 SNP309 Allele,NCI_Thesaurus
+611,C51283,MDM2 wt Allele,NCI_Thesaurus
+626,C18394,SMARCB1 Gene,NCI_Thesaurus
+632,C13727,t(12;21)(p13.2;q22.1),NCI_Thesaurus
+633,C37227,ETV6-RUNX1 Fusion Protein Expression,NCI_Thesaurus
+634,C18517,ETV6/RUNX1 Fusion Gene,NCI_Thesaurus
+635,C18579,RUNX1 Gene,NCI_Thesaurus
+641,C53118,RUNX1 wt Allele,NCI_Thesaurus
+642,C27715,t(1;19)(q23;p13.3),NCI_Thesaurus
+643,C37226,TCF3-PBX1 Fusion Protein Expression,NCI_Thesaurus
+644,C97317,PBX1 Gene,NCI_Thesaurus
+645,C24846,TCF3 Gene,NCI_Thesaurus
+646,C99291,TCF3/PBX1 Fusion Gene,NCI_Thesaurus
+652,C97318,PBX1 wt Allele,NCI_Thesaurus
+653,C36358,t(5;14)(q31.1;q32.3),NCI_Thesaurus
+654,C28595,IL3 Gene,NCI_Thesaurus
+655,C26422,Immunoglobulin Heavy Locus,NCI_Thesaurus
+661,C50935,IL3 wt Allele,NCI_Thesaurus
+666,C18455,BCR Gene,NCI_Thesaurus
+674,C36517,t(v;11q23.3),NCI_Thesaurus
+690,C80336,Hyperdiploidy,NCI_Thesaurus
+695,C80337,Hypodiploidy,NCI_Thesaurus
+747,C51061,ABL1 wt Allele,NCI_Thesaurus
+749,C99305,BCR/ABL1 Fusion Gene p190,NCI_Thesaurus
+750,C99306,BCR/ABL1 Fusion Gene p210,NCI_Thesaurus
+751,C99307,BCR/ABL1 Fusion Gene p230,NCI_Thesaurus
+752,C130220,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.1052T>C Mutation,NCI_Thesaurus
+753,C130222,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.1075T>G Mutation,NCI_Thesaurus
+754,C130224,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.1150C>A Mutation,NCI_Thesaurus
+755,C130226,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.1187A>C Mutation,NCI_Thesaurus
+756,C130229,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.1187A>G Mutation,NCI_Thesaurus
+757,C130232,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.1457T>C Mutation,NCI_Thesaurus
+758,C130201,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.742C>G Mutation,NCI_Thesaurus
+759,C130204,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.749G>A Mutation,NCI_Thesaurus
+760,C130207,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.756G>C Mutation,NCI_Thesaurus
+761,C130206,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.756G>T Mutation,NCI_Thesaurus
+762,C130209,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.758A>T Mutation,NCI_Thesaurus
+763,C130211,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.763G>A Mutation,NCI_Thesaurus
+764,C131012,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.764A>T Mutation,NCI_Thesaurus
+765,C131013,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.827A>G Mutation,NCI_Thesaurus
+766,C131014,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.835G>A Mutation,NCI_Thesaurus
+767,C130213,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.895G>C Mutation,NCI_Thesaurus
+768,C130214,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.895G>T Mutation,NCI_Thesaurus
+769,C123845,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.944C>T Mutation,NCI_Thesaurus
+770,C130217,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.949T>C Mutation,NCI_Thesaurus
+771,C130216,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.951C>A Mutation,NCI_Thesaurus
+772,C130218,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.951C>G Mutation,NCI_Thesaurus
+801,C36533,del(11q23),NCI_Thesaurus
+802,C36421,del(13q14),NCI_Thesaurus
+803,C27490,t(11;14)(q13;q32),NCI_Thesaurus
+807,C36496,Loss of Chromosome 18q,NCI_Thesaurus
+813,C36649,EGFR Gene Amplification,NCI_Thesaurus
+818,C39716,EGFR Protein Overexpression,NCI_Thesaurus
+820,C105977,KRT17 Gene,NCI_Thesaurus
+821,C105679,KRT5 Gene,NCI_Thesaurus
+828,C24666,PDGFRA Gene,NCI_Thesaurus
+832,C39712,KIT Gene Mutation,NCI_Thesaurus
+833,C39718,PDGFRA Gene Mutation,NCI_Thesaurus
+834,C36339,Cell Cycle Deregulation,NCI_Thesaurus
+835,C42600,RB-E2F Pathway Deregulation,NCI_Thesaurus
+837,C17360,RB1 Gene,NCI_Thesaurus
+839,C36673,NMYC Gene Amplification,NCI_Thesaurus
+850,C39875,Loss of Chromosome 9q,NCI_Thesaurus
+879,C36420,Trisomy 12,NCI_Thesaurus
+881,C27714,Clonal CCND1 Gene Rearrangement,NCI_Thesaurus
+886,C44521,t(3;14)(p14.1;q32),NCI_Thesaurus
+887,C36626,Trisomy 18,NCI_Thesaurus
+897,C99875,BIRC3/MALT1 Fusion Gene,NCI_Thesaurus
+898,C60671,MALT1 Gene,NCI_Thesaurus
+899,C27713,t(11;18)(q21;q21),NCI_Thesaurus
+900,C27751,t(1;14)(p22;q32),NCI_Thesaurus
+903,C38459,API2-MLT Fusion Protein Expression,NCI_Thesaurus
+906,C60672,MALT1 wt Allele,NCI_Thesaurus
+939,C53086,MYC wt Allele,NCI_Thesaurus
+966,C36493,High-Frequency Microsatellite Instability,NCI_Thesaurus
+970,C99413,ETV6/NTRK3 Fusion Gene,NCI_Thesaurus
+971,C24647,NTRK3 Gene,NCI_Thesaurus
+972,C36387,t(12;15)(p13;q25),NCI_Thesaurus
+973,C37191,Trisomy 11,NCI_Thesaurus
+974,C37243,ETV6-NTRK3 Fusion Protein Expression,NCI_Thesaurus
+977,C52201,NTRK3 wt Allele,NCI_Thesaurus
+978,C18261,VHL Gene,NCI_Thesaurus
+985,C122819,NAB2/STAT6 Fusion Gene,NCI_Thesaurus
+999,C18524,FHIT Gene,NCI_Thesaurus
+1028,C49384,FHIT wt Allele,NCI_Thesaurus
+1044,C36487,Gain of Chromosome 3q,NCI_Thesaurus
+1068,C36558,Gain of Chromosome 1,NCI_Thesaurus
+1069,C6832,Homogeneously Staining Region,NCI_Thesaurus
+1071,C36536,Loss of Chromosome 13,NCI_Thesaurus
+1074,C36678,FOS Gene Amplification,NCI_Thesaurus
+1077,C36545,Gain of Chromosome 5q,NCI_Thesaurus
+1078,C36453,Gain of Chromosome 7q,NCI_Thesaurus
+1081,C36586,Loss of Chromosome 3,NCI_Thesaurus
+1082,C36571,Loss of Chromosome 4,NCI_Thesaurus
+1083,C83916,T Gene Duplication,NCI_Thesaurus
+1103,C36597,Loss of Chromosome 1,NCI_Thesaurus
+1107,C39798,Loss of Chromosome 2,NCI_Thesaurus
+1108,C39799,Loss of Chromosome 21,NCI_Thesaurus
+1111,C51150,BHD Gene Mutation,NCI_Thesaurus
+1112,C38350,del(4)(q12),NCI_Thesaurus
+1116,C36402,t(6;8)(q27;p11),NCI_Thesaurus
+1117,C36401,t(8;9)(p11;q32-34),NCI_Thesaurus
+1128,C18360,BCL3 Gene,NCI_Thesaurus
+1129,C36422,del(11q22q23),NCI_Thesaurus
+1131,C36424,del(17p13),NCI_Thesaurus
+1132,C36423,del(6q21),NCI_Thesaurus
+1133,C37185,Gain of Chromosome 12q13,NCI_Thesaurus
+1134,C36357,t(14;19)(q32;q13.1),NCI_Thesaurus
+1136,C38457,Clonal BCL3 Gene Rearrangement,NCI_Thesaurus
+1138,C52517,BCL3 wt Allele,NCI_Thesaurus
+1142,C97146,Unmutated Immunoglobulin Heavy Chain Variable Region Gene,NCI_Thesaurus
+1143,C37207,ZAP70 Messenger RNA Overexpression,NCI_Thesaurus
+1144,C26535,ZAP70 Gene,NCI_Thesaurus
+1148,C52231,ZAP70 wt Allele,NCI_Thesaurus
+1195,C36408,Loss of Chromosome 7q,NCI_Thesaurus
+1226,C36478,Unbalanced Translocation of Chromosome 1,NCI_Thesaurus
+1241,C36439,Gain of Chromosome 2p,NCI_Thesaurus
+1242,C36440,Gain of Chromosome 9p,NCI_Thesaurus
+1243,C36431,Apoptotic Pathway Deregulation,NCI_Thesaurus
+1247,C36446,Clonal T-Cell Receptor Gene Rearrangement,NCI_Thesaurus
+1325,C36318,Microsatellite Instability,NCI_Thesaurus
+1397,C51194,BRAF wt Allele,NCI_Thesaurus
+1476,C36556,del(13q12-13),NCI_Thesaurus
+1477,C36557,del(13q32-qter),NCI_Thesaurus
+1478,C36554,del(3p21-23),NCI_Thesaurus
+1479,C36555,del(8p21-pter),NCI_Thesaurus
+1481,C36465,Gain of Chromosome 15,NCI_Thesaurus
+1482,C36466,Gain of Chromosome 17,NCI_Thesaurus
+1484,C36553,Gain of Chromosome 1q21-31,NCI_Thesaurus
+1486,C36457,Gain of Chromosome 22,NCI_Thesaurus
+1532,C99196,COL1A1/PDGFB Fusion Gene,NCI_Thesaurus
+1534,C36520,t(17;22)(q22;q13),NCI_Thesaurus
+1535,C43301,COL1A1-PDGFbeta Fusion Protein Expression,NCI_Thesaurus
+1538,C36397,Trisomy 20,NCI_Thesaurus
+1575,C52519,BCL6 wt Allele,NCI_Thesaurus
+1607,C49519,CCND1 wt Allele,NCI_Thesaurus
+1609,C52166,ERBB2 wt Allele,NCI_Thesaurus
+1613,C36598,Loss of Chromosome 18,NCI_Thesaurus
+1614,C36656,Polysomy 10,NCI_Thesaurus
+1615,C36657,Polysomy 17,NCI_Thesaurus
+1616,C36655,Polysomy 3,NCI_Thesaurus
+1630,C36693,SMAD4/DPC4 Gene Inactivation,NCI_Thesaurus
+1635,C18256,PTEN Gene,NCI_Thesaurus
+1637,C52906,PTEN wt Allele,NCI_Thesaurus
+1639,C43532,c-MET Gene Amplification,NCI_Thesaurus
+1640,C36654,CDH1 Gene Inactivation,NCI_Thesaurus
+1665,C36560,del(11p15),NCI_Thesaurus
+1666,C36562,Rearrangement of 12q13,NCI_Thesaurus
+1667,C36561,Rearrangement of 1p11-q11,NCI_Thesaurus
+1680,C36698,MLH1 Gene Inactivation,NCI_Thesaurus
+1681,C36697,MSH2 Gene Inactivation,NCI_Thesaurus
+1690,C36592,Gain of Chromosome 9q34,NCI_Thesaurus
+1691,C129352,C11orf95-RELA Fusion Protein Expression,NCI_Thesaurus
+1692,C129353,C11orf95/RELA Fusion Gene,NCI_Thesaurus
+1701,C36563,t(1;3)(p36;q23-25),NCI_Thesaurus
+1702,C121670,WWTR1-CAMTA1 Fusion Protein Expression,NCI_Thesaurus
+1703,C101440,CAMTA1 Gene,NCI_Thesaurus
+1704,C24844,WWTR1 Gene,NCI_Thesaurus
+1705,C121672,WWTR1/CAMTA1 Fusion Gene,NCI_Thesaurus
+1707,C101441,CAMTA1 wt Allele,NCI_Thesaurus
+1709,C52213,WWTR1 wt Allele,NCI_Thesaurus
+1724,C17424,NF1 Gene,NCI_Thesaurus
+1726,C36685,NF1 Gene Inactivation,NCI_Thesaurus
+1753,C37189,del(17q25),NCI_Thesaurus
+1754,C2873,Aneuploidy,NCI_Thesaurus
+1758,C41379,FGF4 Gene Amplification,NCI_Thesaurus
+1759,C41380,FGF6 Gene Amplification,NCI_Thesaurus
+1800,C24529,JAK2 Gene,NCI_Thesaurus
+1803,C84255,JAK2 Gene Mutation,NCI_Thesaurus
+1805,C51085,JAK2 wt Allele,NCI_Thesaurus
+1876,C51239,EWSR1 wt Allele,NCI_Thesaurus
+1882,C99203,EWSR1/FLI1 Fusion Gene Type 1,NCI_Thesaurus
+1883,C99204,EWSR1/FLI1 Fusion Gene Type 2,NCI_Thesaurus
+1885,C99240,EWSR1/PATZ1 Fusion Gene Long A Isoform,NCI_Thesaurus
+1886,C99241,EWSR1/PATZ1 Fusion Gene Long B Isoform,NCI_Thesaurus
+1887,C99239,EWSR1/PATZ1 Fusion Gene Short Isoform,NCI_Thesaurus
+1933,C39813,SMARCB1 Gene Inactivation,NCI_Thesaurus
+1981,C97724,PHOX2B Gene,NCI_Thesaurus
+1982,C81945,ALK Gene Mutation,NCI_Thesaurus
+1986,C97725,PHOX2B wt Allele,NCI_Thesaurus
+1990,C27748,t(9;14)(p13;q32),NCI_Thesaurus
+2023,C36632,Loss of Chromosome 19,NCI_Thesaurus
+2024,C122558,DNAJB1/PRKACA Fusion Gene,NCI_Thesaurus
+2068,C36690,MEN1 Gene Inactivation,NCI_Thesaurus
+2070,C99712,PAX3/FOXO1 Fusion Gene,NCI_Thesaurus
+2071,C99363,PAX7/FOXO1 Fusion Gene,NCI_Thesaurus
+2072,C36376,t(1;13)(p36;q14),NCI_Thesaurus
+2073,C36389,t(2;13)(q35;q14),NCI_Thesaurus
+2074,C37239,PAX3-FOXO1 Fusion Protein Expression,NCI_Thesaurus
+2075,C37240,PAX7-FOXO1 Fusion Protein Expression,NCI_Thesaurus
+2094,C36474,Ring Chromosome 1,NCI_Thesaurus
+2096,C36475,Trisomy 6,NCI_Thesaurus
+2097,C36476,Trisomy 7,NCI_Thesaurus
+2131,C51741,KIT wt Allele,NCI_Thesaurus
+2133,C52202,PDGFRA wt Allele,NCI_Thesaurus
+2150,C38169,A-myb Messenger RNA Overexpression,NCI_Thesaurus
+2151,C38168,BCL-6 Messenger RNA Overexpression,NCI_Thesaurus
+2152,C38176,BCL2 Gene Translocation,NCI_Thesaurus
+2153,C38167,CD10 Messenger RNA Overexpression,NCI_Thesaurus
+2155,C38170,LMO2 Messenger RNA Overexpression,NCI_Thesaurus
+2156,C40571,REL Gene Amplification,NCI_Thesaurus
+2186,C51744,EGFR wt Allele,NCI_Thesaurus
+2191,C39719,PDGFRalpha Protein Overexpression,NCI_Thesaurus
+2203,C36471,del(14q21),NCI_Thesaurus
+2204,C36472,del(19p12),NCI_Thesaurus
+2205,C36470,del(6q25),NCI_Thesaurus
+2206,C36473,der(15;21)(q10;q10),NCI_Thesaurus
+2219,C45809,Gain of Chromosome 11q13,NCI_Thesaurus
+2220,C37905,Gain of Chromosome 14,NCI_Thesaurus
+2225,C36550,Gain of Chromosome 7p,NCI_Thesaurus
+2255,C17963,BCL2 Gene,NCI_Thesaurus
+2257,C36538,del(6q23),NCI_Thesaurus
+2258,C37188,del(6q25-27),NCI_Thesaurus
+2260,C27752,t(2;18)(p12;q21),NCI_Thesaurus
+2265,C49350,BCL2 wt Allele,NCI_Thesaurus
+2400,C38317,GNAS Gene,NCI_Thesaurus
+2404,C36486,Gain of Chromosome 5,NCI_Thesaurus
+2407,C36549,Loss of Chromosome 11,NCI_Thesaurus
+2411,C45930,GNAS Gene Mutation,NCI_Thesaurus
+2414,C52656,GNAS wt Allele,NCI_Thesaurus
+2441,C53120,VHL wt Allele,NCI_Thesaurus
+2462,C20987,CTNNB1 Gene,NCI_Thesaurus
+2464,C36495,Trisomy 2,NCI_Thesaurus
+2467,C52512,CTNNB1 wt Allele,NCI_Thesaurus
+2489,C36432,i(7q),NCI_Thesaurus
+2492,C36640,c-erbB2 Messenger RNA Overexpression,NCI_Thesaurus
+2493,C36687,VHL Gene Inactivation,NCI_Thesaurus
+2498,C18249,CDH1 Gene,NCI_Thesaurus
+2500,C51151,CDH1 wt Allele,NCI_Thesaurus
+2501,C36688,BRCA1 Gene Inactivation,NCI_Thesaurus
+2502,C36689,BRCA2 Gene Inactivation,NCI_Thesaurus
+2509,C39788,MET Gene Mutation,NCI_Thesaurus
+2510,C18325,MET Gene,NCI_Thesaurus
+2513,C51540,MET wt Allele,NCI_Thesaurus
+2514,C17965,BRCA1 Gene,NCI_Thesaurus
+2515,C18120,BRCA2 Gene,NCI_Thesaurus
+2516,C19635,BRCA1 Gene Mutation,NCI_Thesaurus
+2517,C19636,BRCA2 Gene Mutation,NCI_Thesaurus
+2519,C52060,BRCA1 wt Allele,NCI_Thesaurus
+2521,C52061,BRCA2 wt Allele,NCI_Thesaurus
+2528,C43293,RET Gene Mutation,NCI_Thesaurus
+2529,C18257,RET Gene,NCI_Thesaurus
+2532,C118396,TP53 Gene Mutation,NCI_Thesaurus
+2586,C37865,Trisomy 17,NCI_Thesaurus
+2598,C36516,Loss of Chromosome 10q,NCI_Thesaurus
+2601,C36548,Loss of Chromosome 2q,NCI_Thesaurus
+2613,C36679,HRAS Gene Amplification,NCI_Thesaurus
+2644,C20577,HMGA2 Gene,NCI_Thesaurus
+2657,C52075,HMGA2 wt Allele,NCI_Thesaurus
+2684,C36648,der(1;16)(q10;p10),NCI_Thesaurus
+2685,C36637,Gain of Chromosome 19q,NCI_Thesaurus
+2687,C36633,Gain of Chromosome 6p,NCI_Thesaurus
+2689,C36647,i(1)(q10),NCI_Thesaurus
+2690,C36564,i(8)(q10),NCI_Thesaurus
+2692,C36498,Loss of Chromosome 12q,NCI_Thesaurus
+2699,C36643,Cyclin E Protein Overexpression,NCI_Thesaurus
+2703,C36650,FGFR1 Gene Amplification,NCI_Thesaurus
+2704,C36651,FGFR2 Gene Amplification,NCI_Thesaurus
+2723,C82612,PTPN11 Gene Mutation,NCI_Thesaurus
+2726,C39811,t(5;11)(q35;q13),NCI_Thesaurus
+2783,C52102,RB1 wt Allele,NCI_Thesaurus
+2807,C18255,PTCH1 Gene,NCI_Thesaurus
+2808,C36691,PTCH Gene Inactivation,NCI_Thesaurus
+2809,C101053,COL1A2/PLAG1 Fusion Gene,NCI_Thesaurus
+2810,C101054,HAS2/PLAG1 Fusion Gene,NCI_Thesaurus
+2811,C71423,PLAG1 Gene,NCI_Thesaurus
+2813,C36540,Rearrangement of 8q11-13,NCI_Thesaurus
+2814,C37241,COL1A2-PLAG1 Fusion Protein Expression,NCI_Thesaurus
+2815,C37242,HAS2-PLAG1 Fusion Protein Expression,NCI_Thesaurus
+2825,C36596,Gain of Chromosome 6q,NCI_Thesaurus
+2826,C36595,Loss of Chromosome 16p,NCI_Thesaurus
+2829,C36506,Loss of Chromosome 22q,NCI_Thesaurus
+2865,C99725,EML4/ALK Fusion Gene Variant 1,NCI_Thesaurus
+2866,C99726,EML4/ALK Fusion Gene Variant 2,NCI_Thesaurus
+2867,C99727,EML4/ALK Fusion Gene Variant 3a,NCI_Thesaurus
+2868,C99729,EML4/ALK Fusion Gene Variant 3b,NCI_Thesaurus
+2869,C99730,EML4/ALK Fusion Gene Variant 4,NCI_Thesaurus
+2870,C99731,EML4/ALK Fusion Gene Variant 5a,NCI_Thesaurus
+2871,C99732,EML4/ALK Fusion Gene Variant 5b,NCI_Thesaurus
+3046,C49511,CDKN2A wt Allele,NCI_Thesaurus
+3052,C52882,NF1 wt Allele,NCI_Thesaurus
+3058,C36388,t(1;2)(p11;q35-36),NCI_Thesaurus
+3064,C36500,Loss of Chromosome 6p,NCI_Thesaurus
+3065,C45703,t(15;22)(p11;q11),NCI_Thesaurus
+3095,C45212,PDCD1LG2 Gene Overexpression,NCI_Thesaurus
+3100,C43309,Gain of Chromosome 10p,NCI_Thesaurus
+3101,C39914,Gain of Chromosome 12p,NCI_Thesaurus
+3122,C36569,del(1p36),NCI_Thesaurus
+3124,C121919,HEY1/NCOA2 Fusion Gene,NCI_Thesaurus
+3161,C99741,CRTC1/MAML2 Fusion Gene,NCI_Thesaurus
+3162,C54217,t(11;19)(q14-21;p12-13),NCI_Thesaurus
+3163,C54218,MECT1-MAML2 Fusion Protein Expression,NCI_Thesaurus
+3215,C18139,ERG Gene,NCI_Thesaurus
+3216,C79904,TMPRSS2/ERG Fusion Gene,NCI_Thesaurus
+3217,C82366,ERG Gene Rearrangement,NCI_Thesaurus
+3218,C82365,TMPRSS2-ERG Fusion Protein Expression,NCI_Thesaurus
+3245,C36523,Monosomy 5,NCI_Thesaurus
+3258,C97320,ASXL1 Gene,NCI_Thesaurus
+3259,C18312,ETV6 Gene,NCI_Thesaurus
+3260,C21327,EZH2 Gene,NCI_Thesaurus
+3263,C97313,ASXL1 Gene Mutation,NCI_Thesaurus
+3264,C97312,ETV6 Gene Mutation,NCI_Thesaurus
+3265,C97311,EZH2 Gene Mutation,NCI_Thesaurus
+3266,C38362,RUNX1 Gene Mutation,NCI_Thesaurus
+3269,C97321,ASXL1 wt Allele,NCI_Thesaurus
+3271,C52871,ETV6 wt Allele,NCI_Thesaurus
+3273,C52072,EZH2 wt Allele,NCI_Thesaurus
+3285,C98284,SF3B1 Gene,NCI_Thesaurus
+3287,C98285,SF3B1 wt Allele,NCI_Thesaurus
+3294,C84273,FGFR1 Gene Rearrangement,NCI_Thesaurus
+3296,C99311,BCR/FGFR1 Fusion Gene,NCI_Thesaurus
+3297,C19929,FGFR1 Gene,NCI_Thesaurus
+3298,C37881,BCR-FGFR1 Fusion Protein Expression,NCI_Thesaurus
+3301,C51542,FGFR1 wt Allele,NCI_Thesaurus
+3303,C84271,PDGFRA Gene Rearrangement,NCI_Thesaurus
+3304,C99743,FIP1L1/PDGFRA Fusion Gene,NCI_Thesaurus
+3306,C37217,FIP1L1-PDGFRalpha Fusion Protein Expression,NCI_Thesaurus
+3311,C84272,PDGFRB Gene Rearrangement,NCI_Thesaurus
+3312,C24667,PDGFRB Gene,NCI_Thesaurus
+3314,C52203,PDGFRB wt Allele,NCI_Thesaurus
+3315,C43224,Trisomy 21,NCI_Thesaurus
+3316,C28575,GATA1 Gene,NCI_Thesaurus
+3318,C82340,GATA1 Gene Mutation,NCI_Thesaurus
+3333,C92539,DDIT3 Gene,NCI_Thesaurus
+3334,C99200,EWSR1/DDIT3 Fusion Gene,NCI_Thesaurus
+3335,C99279,FUS/DDIT3 Fusion Gene,NCI_Thesaurus
+3336,C36317,t(12;16)(q13;p11),NCI_Thesaurus
+3337,C36374,t(12;22)(q13;q12),NCI_Thesaurus
+3338,C45472,EWSR1-DDIT3 Fusion Protein Expression,NCI_Thesaurus
+3339,C37238,FUS-DDIT3 Fusion Protein Expression,NCI_Thesaurus
+3341,C92540,DDIT3 wt Allele,NCI_Thesaurus
+3345,C28585,HLA-A Gene,NCI_Thesaurus
+3346,C37312,Loss of Chromosome 11q,NCI_Thesaurus
+3348,C39795,Loss of Chromosome 14q,NCI_Thesaurus
+3354,C54411,RASSF1A Gene Inactivation,NCI_Thesaurus
+3393,C45717,t(15;19)(q13;p13.1),NCI_Thesaurus
+3394,C45718,BRD4-NUT Fusion Protein Expression,NCI_Thesaurus
+3395,C99831,BRD4/NUTM1 Fusion Gene,NCI_Thesaurus
+3434,C99866,CTNNB1/PLAG1 Fusion Gene,NCI_Thesaurus
+3437,C43308,t(3;8)(p12;q21),NCI_Thesaurus
+3458,C92530,ARID1A Gene,NCI_Thesaurus
+3459,C96271,PIK3CA Gene Mutation,NCI_Thesaurus
+3475,C18254,MEN1 Gene,NCI_Thesaurus
+3485,C41371,Loss of Chromosome 12,NCI_Thesaurus
+3494,C41367,AKT2 Gene Amplification,NCI_Thesaurus
+3499,C41363,MAP2K4 Gene Inactivation,NCI_Thesaurus
+3518,C45861,del(18q21),NCI_Thesaurus
+3529,C45859,Loss of Chromosome 3q,NCI_Thesaurus
+3540,C53065,MEN1 wt Allele,NCI_Thesaurus
+3548,C41377,del(3p25),NCI_Thesaurus
+3597,C45858,Gain of Chromosome 4,NCI_Thesaurus
+3610,C43569,CDC73 Gene,NCI_Thesaurus
+3614,C43375,CDC73 Gene Mutation,NCI_Thesaurus
+3616,C54289,CDC73 wt Allele,NCI_Thesaurus
+3733,C38343,JAK-STAT Pathway Deregulation,NCI_Thesaurus
+3734,C38345,JUN Pathway Deregulation,NCI_Thesaurus
+3735,C38346,MYC Pathway Deregulation,NCI_Thesaurus
+3736,C38347,P13K-AKT Pathway Deregulation,NCI_Thesaurus
+3740,C38344,RAS-RAF Pathway Deregulation,NCI_Thesaurus
+3764,C45808,Gain of Chromosome 22q,NCI_Thesaurus
+3790,C45668,GPC3 Gene Inactivation,NCI_Thesaurus
+3791,C45669,NF2 Gene Mutation,NCI_Thesaurus
+3792,C25956,DICER1 Gene,NCI_Thesaurus
+3796,C49380,DICER1 wt Allele,NCI_Thesaurus
+3842,C36575,del(10q24-qter),NCI_Thesaurus
+3843,C36576,del(11p13-pter),NCI_Thesaurus
+3844,C36577,del(11q25),NCI_Thesaurus
+3845,C36578,del(13q21-qter),NCI_Thesaurus
+3846,C36570,del(1p13-22),NCI_Thesaurus
+3848,C36580,del(22q13),NCI_Thesaurus
+3849,C36572,del(5q13-31),NCI_Thesaurus
+3850,C36573,del(6q22-qter),NCI_Thesaurus
+3851,C36574,del(9p22-pter),NCI_Thesaurus
+3852,C36582,Gain of Chromosome 12q15-qter,NCI_Thesaurus
+3854,C36581,Gain of Chromosome 7p13-pter,NCI_Thesaurus
+3856,C36579,Loss of Chromosome 18p,NCI_Thesaurus
+3904,C36521,Partial Trisomy 1q,NCI_Thesaurus
+3922,C45933,Gain of Chromosome 4q,NCI_Thesaurus
+3936,C96868,PDGFRA Gene Amplification,NCI_Thesaurus
+3944,C39909,Gain of Chromosome 18q,NCI_Thesaurus
+3949,C36658,Gain of Chromosome Xq,NCI_Thesaurus
+4157,C39801,inv(X)(p11;q12),NCI_Thesaurus
+4158,C39806,NONO-TFE3 Fusion Protein Expression,NCI_Thesaurus
+4159,C101061,NONO/TFE3 Fusion Gene,NCI_Thesaurus
+4160,C24854,TFE3 Gene,NCI_Thesaurus
+4162,C37875,t(X;1)(p11.2;p34),NCI_Thesaurus
+4163,C39805,PSF-TFE3 Fusion Protein Expression,NCI_Thesaurus
+4164,C99690,SFPQ/TFE3 Fusion Gene,NCI_Thesaurus
+4167,C37873,t(X;1)(p11.2;q21),NCI_Thesaurus
+4168,C39803,PRCC-TFE3 Fusion Protein Expression,NCI_Thesaurus
+4169,C99376,PRCC/TFE3 Fusion Gene,NCI_Thesaurus
+4172,C6822,Balanced Chromosomal Translocation,NCI_Thesaurus
+4173,C36392,t(X;17)(p11.2;q25),NCI_Thesaurus
+4174,C37248,ASPL-TFE3 Fusion Protein Expression,NCI_Thesaurus
+4178,C53110,TFE3 wt Allele,NCI_Thesaurus
+4203,C52113,SMARCB1 wt Allele,NCI_Thesaurus
+4220,C71424,PLAG1 wt Allele,NCI_Thesaurus
+4223,C41424,Loss of Merlin Expression,NCI_Thesaurus
+4266,C51720,PTCH1 wt Allele,NCI_Thesaurus
+4389,C36534,del(7q21-32),NCI_Thesaurus
+4390,C36634,Gain of Chromosome 17q22-q24,NCI_Thesaurus
+4393,C36635,Gain of Chromosome 20q13,NCI_Thesaurus
+4410,C36629,Monosomy 11,NCI_Thesaurus
+4411,C36383,Monosomy 13,NCI_Thesaurus
+4412,C36384,Monosomy 16,NCI_Thesaurus
+4413,C36509,Monosomy 17,NCI_Thesaurus
+4415,C36627,Monosomy 6,NCI_Thesaurus
+4416,C36628,Monosomy 8,NCI_Thesaurus
+4417,C36630,Monosomy X,NCI_Thesaurus
+4428,C37867,Tetrasomy 7,NCI_Thesaurus
+4430,C37866,Trisomy 16,NCI_Thesaurus
+4670,C24636,NOTCH1 Gene,NCI_Thesaurus
+4671,C36604,del(9p21p22),NCI_Thesaurus
+4672,C36602,inv(14)(q11;q32.1),NCI_Thesaurus
+4673,C36352,t(10;14)(q24;q11),NCI_Thesaurus
+4674,C36351,t(11;14)(p13;q11),NCI_Thesaurus
+4675,C36350,t(11;14)(p15;q11),NCI_Thesaurus
+4676,C36356,t(14;14)(q11;q32),NCI_Thesaurus
+4677,C36348,t(1;14)(p32;q11),NCI_Thesaurus
+4678,C36359,t(1;7)(p33;q35),NCI_Thesaurus
+4679,C36353,t(7;10)(q34;q24),NCI_Thesaurus
+4680,C36519,t(7;14)(q35;q32.1),NCI_Thesaurus
+4681,C36518,t(7;19)(q34;q13),NCI_Thesaurus
+4682,C36603,t(7;9)(q34;q32),NCI_Thesaurus
+4683,C36349,t(7;9)(q34;q34.3),NCI_Thesaurus
+4684,C36400,t(8;13)(p11;q11),NCI_Thesaurus
+4687,C45403,NOTCH1 Gene Mutation,NCI_Thesaurus
+4689,C51562,NOTCH1 wt Allele,NCI_Thesaurus
+4731,C39583,FAS Apoptosis Pathway Deregulation,NCI_Thesaurus
+4740,C36429,del(12p13),NCI_Thesaurus
+4741,C36426,inv(14),NCI_Thesaurus
+4743,C36427,t(8;8)(p11-12;q12),NCI_Thesaurus
+4744,C36360,t(X;14)(q28;11),NCI_Thesaurus
+4745,C36428,Trisomy 8q,NCI_Thesaurus
+4770,C40343,Hypotriploidy,NCI_Thesaurus
+4772,C40344,Hypertriploidy,NCI_Thesaurus
+4791,C99365,PAX8/PPARG Fusion Gene,NCI_Thesaurus
+4792,C24689,PPARG Gene,NCI_Thesaurus
+4803,C46007,PPAR-gamma Rearrangement,NCI_Thesaurus
+4808,C52204,RET wt Allele,NCI_Thesaurus
+4810,C18573,CCDC6/RET Fusion Gene,NCI_Thesaurus
+4811,C99721,ERC1/RET Fusion Gene,NCI_Thesaurus
+4812,C99856,GOLGA5/RET Fusion Gene,NCI_Thesaurus
+4813,C99847,NCOA4/RET Fusion Gene,NCI_Thesaurus
+4814,C99399,PCM1/RET Fusion Gene,NCI_Thesaurus
+4815,C99845,PRKAR1A/RET Fusion Gene,NCI_Thesaurus
+4817,C99386,TPM3/NTRK1 Fusion Gene,NCI_Thesaurus
+4818,C99850,TRIM24/RET Fusion Gene,NCI_Thesaurus
+4819,C99853,TRIM33/RET Fusion Gene,NCI_Thesaurus
+4824,C46005,RET/PTC Rearrangement,NCI_Thesaurus
+4825,C46006,TRK Rearrangement,NCI_Thesaurus
+4847,C36366,t(9;11)(q21;q23),NCI_Thesaurus
+4877,C36645,Loss of Chromosome 3p FHIT Gene Locus,NCI_Thesaurus
+4919,C36552,Gain of Chromosome 1p31,NCI_Thesaurus
+4921,C36551,Gain of Chromosome 7q32,NCI_Thesaurus
+4924,C36542,Loss of Chromosome 16,NCI_Thesaurus
+4925,C36547,Loss of Chromosome 2p,NCI_Thesaurus
+4941,C127049,t(10;17)(q22;p13),NCI_Thesaurus
+4942,C127050,YWHAE-FAM22 Fusion Protein Expression,NCI_Thesaurus
+4943,C127057,YWHAE/FAM22 Fusion Gene,NCI_Thesaurus
+4944,C101116,YWHAE Gene,NCI_Thesaurus
+4945,C101117,YWHAE wt Allele,NCI_Thesaurus
+4947,C20576,HMGA1 Gene,NCI_Thesaurus
+4950,C52074,HMGA1 wt Allele,NCI_Thesaurus
+4966,C99707,JAZF1/SUZ12 Fusion Gene,NCI_Thesaurus
+4967,C40160,t(7;17)(p15;q21),NCI_Thesaurus
+4968,C40161,JAZF1-SUZ12 Fusion Protein Expression,NCI_Thesaurus
+4969,C73542,JAZF1 Gene,NCI_Thesaurus
+4970,C73543,JAZF1 wt Allele,NCI_Thesaurus
+4972,C73545,SUZ12 Gene,NCI_Thesaurus
+4973,C73546,SUZ12 wt Allele,NCI_Thesaurus
+5015,C53122,WT1 wt Allele,NCI_Thesaurus

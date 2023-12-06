@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cypher Query Generator</title>
+    <script type="text/javascript">
+        function updateTargetNodeOptions() {
+            var inputNode = document.getElementById('input_node').value;
+            var targetNodeSelect = document.getElementById('target_node');
+            var options = {
+                "Disease": ["Statement", "Disease", "Molecular"],
+                "Statement": ["Disease", "Drug", "SNV"],
+                "Drug": ["Statement"],
+                "SNV": ["Statement"],
+                "Molecular": ["Disease"]
+            };
+            updateSelectOptions(targetNodeSelect, options[inputNode]);
+            updateRelationshipOptions();
+        }
+
+        function updatePropertyOptions() {
+            var inputNode = document.getElementById('input_node').value;
+            var targetNode = document.getElementById('target_node').value;
+            var inputNodePropertySelect = document.getElementById('input_node_property');
+            var targetNodePropertySelect = document.getElementById('target_node_property');
+            var propertyOptions = {
+                "Disease": ["disease_name", "Neoplastic Status"],
+                "Drug": ["drug_name", "drug_status"],
+                "SNV": ["gene", "variant"]
+            };
+
+            updateSelectOptions(inputNodePropertySelect, propertyOptions[inputNode]);
+            updateSelectOptions(targetNodePropertySelect, propertyOptions[targetNode]);
+            updateRelationshipOptions();
+        }
+
+        function updateRelationshipOptions() {
+            var inputNode = document.getElementById('input_node').value;
+            var targetNode = document.getElementById('target_node').value;
+            var relationshipSelect = document.getElementById('relationship');
+            var relationshipOptions = {
+                "Disease-Statement": ["involved"],
+                "Statement-Disease": ["involved"],
+                "Disease-Disease": ["Higher_class"],
+                "Disease-Molecular": ["Molecular_rel"],
+                "Molecular-Disease": ["Molecular_rel"],
+                "Statement-Drug": ["involved"],
+                "Statement-SNV": ["involved"],
+                "Drug-Statement": ["involved"],
+                "SNV-Statement": ["involved"],
+                // Add other combinations as needed
+            };
+            var combinedKey = inputNode + '-' + targetNode;
+            updateSelectOptions(relationshipSelect, relationshipOptions[combinedKey]);
+        }
+
+        function updateSelectOptions(selectElement, options) {
+            selectElement.innerHTML = '';
+            var naOption = document.createElement('option');
+            naOption.value = 'NA';
+            naOption.text = 'NA';
+            selectElement.appendChild(naOption);
+
+            if (options) {
+                options.forEach(function(property) {
+                    var option = document.createElement('option');
+                    option.value = property;
+                    option.text = property;
+                    selectElement.appendChild(option);
+                });
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Cypher Query Generator</h1>
+    <form method="post">
+        Input Node:
+        <select name="input_node" id="input_node" onchange="updateTargetNodeOptions(); updatePropertyOptions();">
+            <option value="NA">NA</option>
+            <option value="Disease">Disease</option>
+            <option value="Statement">Statement</option>
+            <option value="Drug">Drug</option>
+            <option value="SNV">SNV</option>
+            <option value="Molecular">Molecular</option>
+        </select><br>
+        
+        Input Node Property:
+        <select name="input_node_property" id="input_node_property">
+            <option value="NA">NA</option>
+            <!-- Additional options will be dynamically populated by JavaScript -->
+        </select><br>
+        Input Node Property Value: <input type="text" name="input_node_property_value" placeholder="e.g., Follicular Lymphoma"><br>
+        
+        Target Node:
+        <select name="target_node" id="target_node" onchange="updatePropertyOptions();">
+            <option value="NA">NA</option>
+            <!-- Additional options will be dynamically populated by JavaScript -->
+        </select><br>
+        
+        Target Node Property:
+        <select name="target_node_property" id="target_node_property">
+            <option value="NA">NA</option>
+            <!-- Additional options will be dynamically populated by JavaScript -->
+        </select><br>
+        Target Node Property Value: <input type="text" name="target_node_property_value" placeholder="e.g., Yes"><br>
+        
+        Relationship:
+        <select name="relationship" id="relationship">
+            <option value="NA">NA</option>
+            <!-- Additional options will be dynamically populated by JavaScript -->
+        </select><br>
+        
+        <input type="submit" value="Generate">
+    </form>
+    
+    {% if cypher_query %}
+        <h2>Generated Cypher Query</h2>
+        <p>{{ cypher_query }}</p>
+    {% endif %}
+    
+    <script type="text/javascript">
+        // Initialize the target node and property options when the page loads
+        updateTargetNodeOptions();
+        updatePropertyOptions();
+    </script>
+</body>
+</html>

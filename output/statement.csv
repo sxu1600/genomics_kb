@@ -1,0 +1,31 @@
+statement_id,drug_id,disease_id,snv_id,association,source,clinical_significance
+1,1,1399,1,Responsive,cgi,
+2,2,1291,2,No Responsive,cgi,
+3,3,206,3,Resistant,cgi,
+4,4,329,4,Resistant,cgi,
+5,5,206,5,Resistant,cgi,
+6,6,1400,6,No Responsive,cgi,
+7,7,1401,7,Responsive,cgi,
+8,6,1400,8,No Responsive,cgi,
+9,8,1402,9,Resistant,cgi,
+10,9,889,10,Resistant,cgi,
+11,10,1401,11,Responsive,cgi,
+12,10,1401,12,Responsive,cgi,
+13,11,1399,13,Responsive,cgi,
+14,12,1401,7,Responsive,cgi,
+15,12,1399,14,Responsive,cgi,
+16,12,1399,11,Responsive,cgi,
+17,12,1399,12,Responsive,cgi,
+18,12,1399,15,Responsive,cgi,
+19,12,1399,16,Responsive,cgi,
+20,9,703,17,Resistant,cgi,
+21,13,426,18,,civic,Poor Outcome
+22,13,426,19,,civic,Poor Outcome
+23,13,889,20,,civic,Poor Outcome
+24,13,703,21,,civic,Poor Outcome
+25,13,1038,22,,civic,
+26,13,370,23,,civic,
+27,13,370,24,,civic,Positive
+28,13,334,25,,civic,Better Outcome
+29,13,426,26,,civic,Better Outcome
+30,14,426,26,,civic,Sensitivity/Response

@@ -1,0 +1,28 @@
+gene,variant,snv_id,source,variant_summary,variant_origin
+MAP2K1,Q56P,1,cgi,,
+NF1,,2,cgi,,
+ESR1,,3,cgi,,
+AR,T878A,4,cgi,,
+ESR1,Y537S,5,cgi,,
+EGFR,,6,cgi,,
+MET,,7,cgi,,
+EGFR,V843I,8,cgi,,
+SLC29A1,,9,cgi,,
+BTK,,10,cgi,,
+MET,H1112R,11,cgi,,
+MET,M1268T,12,cgi,,
+MET,H1112L,13,cgi,,
+MET,V1110I,14,cgi,,
+MET,R988C,15,cgi,,
+MET,T1010I,16,cgi,,
+BTK,C481S,17,cgi,,
+NCOA3,AMPLIFICATION,18,civic,,Somatic
+NCOA3,OVEREXPRESSION,19,civic,,Somatic
+NOTCH1,Mutation,20,civic,,Somatic
+NOTCH1,P2514FS,21,civic,"This mutation disrupts the C-terminal PEST domain that in normal conditions promotes degradation,  resulting in accumulation of an active NOTCH1 isoform sustaining deregulated signaling.",Somatic
+NRAS,Mutation,22,civic,,Somatic
+NRAS,Q61,23,civic,"NRAS Q61 mutations have been found in multiple myeloma, gastrointestinal stromal tumors, melanoma, and others. Two melanoma patients, each harboring mutations at this locus (Q61L and Q61R), responded to treatment with the akylating agent temozolomide. However, in colorectal cancer patients, mutations at this locus have been shown to confer resistance to cetuximab. The prognostic impact of mutations at this locus is currently under study.",Somatic
+PAX8,PAX8::PPARG,24,civic,PAX8-PPAR gamma is a oncogene caused by a translocation between 2q13 and 3p25 resulting in an in-frame fusion between the two genes. It has been observed in Follicular Thyroid Cancer (FTC) and is one of two known fusion products involving PPAR gamma in FTC indicating this region may be a breakpoint hotspot. Studies have indicated that the fusion product increases cell viability and proliferation and decreases apoptosis.,Somatic
+PBRM1,Mutation,25,civic,,Somatic
+PGR,Expression,26,civic,,
+PGR,Expression,27,civic,,
