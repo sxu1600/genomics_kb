@@ -11,5 +11,5 @@ In order to use this prototype, following the commands in terminal.
 
 ## Data Sources
 - CIViC - https://civicdb.org/releases/main
-- CGI
-- 
+- CGI - https://www.cancergenomeinterpreter.org/home
+- NCI Thesaurus - https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/Neoplasm/
